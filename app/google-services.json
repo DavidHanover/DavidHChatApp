@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "698959699732",
+    "firebase_url": "https://davidssolochatapp.firebaseio.com",
+    "project_id": "davidssolochatapp",
+    "storage_bucket": "davidssolochatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698959699732:android:86a8f3bd6e62f48c",
+        "android_client_info": {
+          "package_name": "csc413.android.davidssolochatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698959699732-9kc3bv2vlij2k0a0dk292m3tdpe6fk06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "csc413.android.davidssolochatapp",
+            "certificate_hash": "f680122d3dbfbee31fbb15a3a21c7459b262e0af"
+          }
+        },
+        {
+          "client_id": "698959699732-jhflga63ri2hj4uibsa0q2glc5pha8v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx9d8dUQuNZPrP8Wqcc_Qb3EgsKyo6tCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698959699732-jhflga63ri2hj4uibsa0q2glc5pha8v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
